@@ -2,8 +2,19 @@ body{
     font-family: 'Arial', sans-serif;
 }
 
-.header p {
-    display:inline-block;
+.header p{
+    position: absolute;
+    top:0;
+}
+
+.header .Mail{
+    width: 50px;
+    right: 100px;
+}
+
+.header .Images{
+    width: 100px;
+    right: 5px;
 }
 
 .title {
