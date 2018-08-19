@@ -32,6 +32,13 @@ form,
 .suggestions{
     margin-top: 20px;
 }
+input[type="text"]{
+    margin-top: 20px;
+    width: 400px;
+    padding: 8px 10px;
+    border: 1px solid rgb(231, 231, 231);
+    box-shadow: 1px 2px 2px rgb(230, 230, 230);
+}
 
 input[type="submit"],
 input[type="button"]{
