@@ -5,3 +5,11 @@ body{
 .header p {
     display:inline-block;
 }
+
+.title {
+    min-width: 500px;
+    font-size: 100px;
+    font-weight: 600;
+    word-spacing: 0px;
+    text-align: center;
+}
