@@ -28,3 +28,7 @@ form,
 .suggestions{
     text-align: center;
 }
+
+.suggestions{
+    margin-top: 20px;
+}
