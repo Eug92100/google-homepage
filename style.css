@@ -19,9 +19,8 @@ body{
 
 .title {
     min-width: 500px;
-    font-size: 100px;
-    font-weight: 600;
-    word-spacing: 0px;
+    height: 100px;
+    margin-top: 160px;
     text-align: center;
 }
 
