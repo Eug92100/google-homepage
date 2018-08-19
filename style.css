@@ -28,13 +28,12 @@ body{
 form, 
 .suggestions{
     text-align: center;
-}
-
-.suggestions{
     
 }
+
 input[type="text"]{
     margin-top: 20px;
+    border-radius: 2px;
     width: 400px;
     padding: 8px 10px;
     border: 1px solid rgb(231, 231, 231);
@@ -44,6 +43,7 @@ input[type="text"]{
 input[type="submit"],
 input[type="button"]{
     margin-top: 20px;
+    border-radius: 2px;
     background: rgb(243, 243, 243);
     color: #757575;
     font-size: 13px;
