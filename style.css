@@ -14,7 +14,7 @@ body{
 
 .header .Images{
     width: 100px;
-    right: 5px;
+    right: -5px;
 }
 
 .title {
