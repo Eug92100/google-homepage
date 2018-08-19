@@ -24,3 +24,8 @@ body{
     word-spacing: 0px;
     text-align: center;
 }
+
+form, 
+.suggestions{
+    text-align: center;
+}
